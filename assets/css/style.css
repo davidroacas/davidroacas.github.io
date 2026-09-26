@@ -1,0 +1,23 @@
+body {
+  max-width: 640px;
+  margin: 0 auto;
+  padding: 48px 16px;
+  background: #000;
+  color: #3f6;
+  font: 16px/1.7 "Courier New", monospace;
+}
+a { color: inherit; }
+a:hover { background: #3f6; color: #000; }
+header { margin-bottom: 48px; }
+.cursor { animation: blink 1s steps(1) infinite; }
+@keyframes blink { 50% { opacity: 0; } }
+h1 { font-size: 1.2em; margin: 0; }
+h2 { font-size: 1em; margin-top: 3em; }
+hr { border: 0; text-align: center; margin: 2em 0; }
+hr::after { content: "* * *"; }
+time { opacity: .5; }
+.posts { list-style: none; padding: 0; }
+img, video, audio { display: block; max-width: 100%; margin: 24px 0; border: 0; }
+audio, video { width: 100%; }
+pre, blockquote { border-left: 1px solid; padding-left: 16px; margin-left: 0; overflow-x: auto; }
+::selection { background: #3f6; color: #000; }

@@ -1,0 +1,8 @@
+title: "De nuevo el fin del mundo"
+lang: es
+baseurl: ""   # si el repo NO se llama TUUSUARIO.github.io, pon "/nombre-del-repo"
+permalink: /:year/:month/:title/
+markdown: kramdown
+kramdown:
+  input: GFM
+exclude: [README.md]
