@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "De bibliotecas y bibliotecas"
+date: 2026-10-18 11:00:00 -0500
 ---
 
 Una persona que admiro mucho me compartió esta mañana de domingo una publicación de Instagram en la que la nueva directora de la Biblioteca Nacional de Colombia posa al lado de una librera muy conocida en la capital de Colombia https://www.instagram.com/p/DenQW-PlcQf/. En ella se anuncia, con el ánimo que inspiró la expresión de los bombos y platillos, que la biblioteca le va a pagar a los libreros independientes una plata que ya les debía de antes, pero presentándolo como un logro del gobierno presente que se dio mañas para "destrabar" lo que solo se puede explicar como una traba que ellos mismos se inventaron (burocracia de manual en un gobierno que aboga por acabar con la burocracia).
