@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "¿Por qué publicamos?"
+date: 2026-10-18 12:00:00 -0500
 ---
 
 Esta semana gané una medalla de bronce (por segunda vez desde que lo intento) en la plataforma de entrenamiento auditivo en la que entreno casi a diario. Hay allí un campeonato permanente en el que la prueba principal corresponde a una de tres categorías (progresiones, intervalos y acordes) y que se renueva, intercalando una de esas categorías, cada tres días. Aunque por lo general quedo clasificado en uno de los primeros diez puestos, después de varios años de competir, es difícil ganar una medalla pues hay otros usuarios muchísimo mejores que yo.
